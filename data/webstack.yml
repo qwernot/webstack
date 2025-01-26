@@ -3,17 +3,33 @@
   icon: far fa-star
   links:
     - title: 子墨小屋
-      logo: "https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png"
+      logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
       url: https://blog.666228.xyz
       description: 基于hexo框架部署的个人博客。
     - title: 子墨个人主页
-      logo: "https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png"
+      logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
       url: https://666228.xyz
       description: 子墨的个人主页。
     - title: ChatGPT
-      logo: "https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png"
+      logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
       url: https://gpt.666228.xyz
       description: 引用API的ChatGPT。
+    - title: Status
+      logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
+      url: https://status.666228.xyz
+      description: 随时监控你的网站
+    - title: 恋爱计时
+      logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
+      url: https://love.666228.xyz
+      description: 记录恋爱天数
+    - title: Excalidraw
+      logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
+      url: https://draw.666228.xyz
+      description: github开源画板工具
+    - title: Qexo
+      logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
+      url: https://qexo.666228.xyz
+      description: 静态博客后台管理工具
     - title: Cloudreve
       logo: "https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png"
       url: https://github.com/cloudreve/Cloudreve
