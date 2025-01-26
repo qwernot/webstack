@@ -1,6 +1,6 @@
 ---
 - taxonomy: 开源自建
-  icon: far fa-star
+  icon: far fa-heart regular-heart
   links:
     - title: 子墨小屋
       logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
@@ -31,7 +31,7 @@
       url: https://qexo.666228.xyz
       description: 静态博客后台管理工具
 - taxonomy: Github项目
-  icon: far fa-github-alt
+  icon: fab fa-github-alt
   links:
     - title: Cloudreve
       logo: "https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png"
