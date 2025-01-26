@@ -6,6 +6,14 @@
       logo: "https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png"
       url: https://blog.666228.xyz
       description: 基于hexo框架部署的个人博客。
+    - title: 子墨个人主页
+      logo: "https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png"
+      url: https://666228.xyz
+      description: 子墨的个人主页。
+    - title: ChatGPT
+      logo: "https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png"
+      url: https://gpt.666228.xyz
+      description: 引用API的ChatGPT。
     - title: Cloudreve
       logo: "https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png"
       url: https://github.com/cloudreve/Cloudreve
