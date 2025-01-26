@@ -31,7 +31,7 @@
       url: https://qexo.666228.xyz
       description: 静态博客后台管理工具
 - taxonomy: Github项目
-  icon: fa-brands fa-github
+  icon: far fa-github
   links:
     - title: Cloudreve
       logo: "https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png"
