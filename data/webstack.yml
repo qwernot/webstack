@@ -2,6 +2,10 @@
 - taxonomy: 开源自建
   icon: far fa-star
   links:
+    - title: 子墨小屋
+      logo: "https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png"
+      url: https://blog.666228.xyz
+      description: 基于hexo框架部署的个人博客。
     - title: Cloudreve
       logo: "https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png"
       url: https://github.com/cloudreve/Cloudreve
