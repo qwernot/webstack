@@ -30,6 +30,19 @@
       logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
       url: https://qexo.666228.xyz
       description: 静态博客后台管理工具
+- taxonomy: 内网服务
+  icon: fas fa-satellite-dish
+  list:
+    - term: armbian设备
+      links:
+        - title: Uptime
+          logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
+          url: http://uptime.666228.xyz/
+          description: 随时监控你的站点。
+        - title: 思源笔记
+          logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
+          url: http://siyuan.666228.xyz/
+          description: 随时可记，随手可记。
 - taxonomy: Github项目
   icon: fab fa-github-alt
   links:
