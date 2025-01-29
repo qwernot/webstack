@@ -33,7 +33,7 @@
 - taxonomy: 内网服务
   icon: fas fa-satellite-dish
   list:
-    - term: A  rmbian设备
+    - term: Armbian设备
       links:
         - title: Uptime
           logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
