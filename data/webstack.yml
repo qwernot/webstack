@@ -41,24 +41,38 @@
       links:
         - title: Uptime
           logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
-          url: http://uptime.666228.xyz/
+          url: http://192.168.6.65:3001/
           description: 随时监控你的站点。
-        - title: 思源笔记
-          logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
-          url: http://siyuan.666228.xyz/
-          description: 随时可记，随手可记。
-        - title: PhotoPrism
-          logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
-          url: http://photo.666228.xyz/
-          description: 随时记录生活。
         - title: Casaos
           logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
-          url: http://casaos.666228.xyz/
+          url: http://192.168.6.65:8080/
           description: Casaos
         - title: Portainer
           logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
-          url: http://portainer.666228.xyz/
+          url: http://192.168.6.65:9090/
           description: 管理你的docker容器
+     - term: J1900
+      links:
+        - title: 飞牛os
+          logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
+          url: http://192.168.6.64:8828/
+          description: 飞牛os
+        - title: Photprism
+          logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
+          url: http://192.168.6.64:8801/
+          description: 相册
+        - title: 思源笔记
+          logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
+          url: http://192.168.6.64:8802/
+          description: 随时可记，随手可记。
+        - title: Clash
+          logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
+          url: http://192.168.6.64:8803/
+          description: 魔法大师
+        - title: 今日热点
+          logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
+          url: http://192.168.6.64:8804/
+          description: 掌握全球热点。
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
