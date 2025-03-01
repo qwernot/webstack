@@ -51,7 +51,7 @@
           logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
           url: http://192.168.6.65:9090/
           description: 管理你的docker容器
-     - term: J1900
+   - term: J1900
       links:
         - title: 飞牛os
           logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
