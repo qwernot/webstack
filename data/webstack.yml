@@ -77,6 +77,10 @@
           logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
           url: http://192.168.6.64:8805/
           description: 网速测试。
+        - title: Nginx 
+          logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
+          url: http://192.168.6.64:8806/
+          description: 反代
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
