@@ -41,22 +41,22 @@
       links:
         - title: Uptime
           logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
-          url: http://192.168.6.65:3001/
+          url: http://192.168.6.65:6601/
           description: 随时监控你的站点。
         - title: Casaos
           logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
-          url: http://192.168.6.65:8080/
+          url: http://192.168.6.65:6600/
           description: Casaos
-        - title: Portainer
-          logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
-          url: http://192.168.6.65:9090/
-          description: 管理你的docker容器
     - term: J1900
       links:
         - title: 飞牛os
           logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
           url: http://192.168.6.64:8828/
           description: 飞牛os
+        - title: Casaos
+          logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
+          url: http://192.168.6.65:8800/
+          description: Casaos
         - title: Photprism
           logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
           url: http://192.168.6.64:8801/
