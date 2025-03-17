@@ -81,6 +81,18 @@
           logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
           url: http://192.168.6.64:8806/
           description: 反代
+        - title: 考研倒计时 
+          logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
+          url: http://192.168.6.64:8807/
+          description: Fighting!
+        - title: 画板
+          logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
+          url: http://192.168.6.64:8809/
+          description: 手写字画板
+        - title: TesPlaymusic
+          logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
+          url: http://192.168.6.64:8810/
+          description: MUsic
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
