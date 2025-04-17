@@ -96,6 +96,10 @@
           logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
           url: http://192.168.6.64:8810/
           description: MUsic
+        - title: It-tools
+          logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
+          url: http://192.168.6.64:8811/
+          description: It-tools          
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
