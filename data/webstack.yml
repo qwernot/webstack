@@ -44,7 +44,7 @@
       links:
         - title: PVE
           logo: "https://s2.loli.net/2023/12/31/gSwF5eh6bGkxLri.png"
-          url: http://192.168.8.5:5006/
+          url: http://192.168.8.5:8006/
           description: 虚拟机
     - term: J1900
       links:
